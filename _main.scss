@@ -1,0 +1,195 @@
+.myWork{
+  background: #FFFFFF;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 1) 74%, rgba(240, 243, 254, 1) 26%);
+  padding: 50px 0;
+}
+.img{
+  width: 50%;
+  .img1{
+    width: 483px;
+    height: 583px;
+    border-radius: 70px
+  }
+}
+.my-work{
+  width: 45%;
+  h2{
+    color: black;
+    font-size: 96px;
+    font-family: Alata;
+  }
+  p {
+    color: #7190F0 ;
+    font-family: Alata;
+    font-size: 36px;
+  }
+  button{
+    background-color: #7190F0;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 35px;
+    margin: 30px 0;
+    padding: 25px 45px;
+  }
+}
+.icons{
+  width: 30%;
+  i{
+    font-size: 40px;
+    color: #7190F0;
+  }
+}
+.skills {
+  background-color: #F0F3FE;
+  padding: 50px 0;
+  h3{
+    text-align: center;
+    font-size: 48px;
+    font-family: Alata;
+  }
+}
+.work-skill{
+  background-color: #7190F0;
+  width: 24%;
+  padding: 30px;
+  border-radius: 28px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  img{
+    width: 45px;
+    height: 80px;
+    object-fit: contain;
+  }
+  span{
+    font-family: Alata;
+    font-size: 24px;
+    color: white;
+    padding: 10px;
+  }
+  p{
+    font-family: "Open Sans", sans-serif;
+    color: white;
+    padding: 10px;
+  }
+}
+.works{
+  padding: 50px 0;
+  h3{
+    text-align: center;
+    font-size: 48px;
+  }
+  p{
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+  }
+}
+.mobile {
+  width: 32%;
+  img{
+    height: 325px;
+    object-fit: cover;
+    border-radius: 55px 55px 0 0;
+    width: 100%;
+  }
+}
+.mobile-p{
+  background-color: #7190F0;
+  border-radius: 0 0 55px 55px;
+  p{
+    color: white;
+    font-size: 18px;
+    font-family: "Open Sans", sans-serif;
+    padding: 20px;
+  }
+  h3{
+    color: white;
+    font-family: Alata;
+    font-size: 28px;
+    padding: 20px;
+    text-align: left;
+  }
+}
+.contact{
+  padding: 50px 0;
+}
+.contact-us{
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  h3{
+    font-family: Alata;
+    font-size: 48px;
+  }
+  label{
+    color: black;
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+  }
+  input{
+    color: #909090;
+    height: 50px;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-bottom: 3px solid #404040;
+  }
+  button{
+    background-color: #7190F0;
+    color: white;
+    font-size: 16px;
+    border: none;
+    padding: 20px 0;
+    border-radius: 35px;
+    text-align: center;
+    margin: 20px 0;
+  }
+  p{
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+  }
+}
+.contact-img{
+  width: 35%;
+  img{
+    width: 85%;
+  }
+}
+.footer{
+  background-color: #F0F3FE;
+  padding: 50px 0;
+}
+.footer-txt{
+  width: 50%;
+  h3{
+    font-family: Alata;
+    color: #7190F0;
+    font-size: 48px;
+  }
+}
+.footer-contact{
+  width: 15%;
+  h3{
+    font-family: Alata;
+    color: #7190F0;
+    font-size: 36px;
+  }
+  p{
+    color: #7190F0;
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+  }
+}
+.name {
+  display: flex;
+  flex-direction: column;
+}
+.email {
+  display: flex;
+  flex-direction: column;
+}
