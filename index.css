@@ -145,7 +145,8 @@
   color: white;
   font-size: 18px;
   font-family: "Open Sans", sans-serif;
-  padding: 20px;
+  padding: 30px;
+  text-align: left;
 }
 .mobile-p h3 {
   color: white;
